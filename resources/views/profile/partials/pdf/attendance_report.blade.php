@@ -1,0 +1,1 @@
+<img src="{{ $attendance->signature }}" width="150px">
