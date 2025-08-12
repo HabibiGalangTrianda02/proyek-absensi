@@ -63,3 +63,7 @@ auth.json
 >>>>>>> f7b62ee936934f7f9a41a8c6308826cbb6069f0a
 
 .vercel
+
+# Tambahkan baris ini di akhir file .gitignore
+/bootstrap/cache/*.php
+!/bootstrap/cache/.gitignore
